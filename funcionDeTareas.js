@@ -61,16 +61,4 @@ const lista2 = () => {
     }
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
 module.exports = lista2
