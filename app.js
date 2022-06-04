@@ -1,6 +1,6 @@
 // const lista = require("./funcionDeTareas");
 
-// console.log(lista)
+console.log("hola")
 
 const lista2 = require("./funcionDeTareas");
 
