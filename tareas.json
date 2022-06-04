@@ -1,0 +1,30 @@
+[
+    {
+        "titulo": "Reto 1",
+        "estado": "terminada"
+    },
+    {
+        "titulo": "Reto 2",
+        "estado": "terminada"
+    },
+    {
+        "titulo": "Reto 3",
+        "estado": "en progreso"
+    },
+    {
+        "titulo": "Reto 4",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "la nueva tarea",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "la super tarea",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "la recontra tarea",
+        "estado": "pendiente"
+    }
+]
